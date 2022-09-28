@@ -1,3 +1,13 @@
+technical challenge for precipoint
+
+I tried my best to come up with something and learn at least one of the technologies requested for the technical challenge but i had little time for it, so i decided to try to create a UI with react so that the slides are visible, to some extent.
+
+
+the installed dependencies where:
+
+### reactstrap, react-router-dom, axios
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
