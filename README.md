@@ -1,4 +1,4 @@
-technical challenge for precipoint
+## Technical challenge for precipoint
 
 I tried my best to come up with something and learn at least one of the technologies requested for the technical challenge but i had little time for it, so i decided to try to create a UI with react so that the slides are visible, to some extent.
 
